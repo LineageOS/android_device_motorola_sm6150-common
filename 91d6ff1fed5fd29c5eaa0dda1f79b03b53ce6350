@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5cab3c56_6f301075",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2022-10-24T14:02:54Z",
+      "side": 1,
+      "message": "This script lives in extract-utils and is hooked up to envsetup even.",
+      "revId": "91d6ff1fed5fd29c5eaa0dda1f79b03b53ce6350",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
